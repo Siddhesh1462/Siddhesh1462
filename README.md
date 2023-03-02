@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Patil</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe8%2Ff4%2F53%2Fe8f453469a3ec97ecd354df465d73913.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F59813501292017265%2F&tbnid=35X6L1D39_KDvM&vet=12ahUKEwjj9bKJv579AhW493MBHQ4dAXcQMygvegUIARCHAw..i&docid=h2ihlHFmCU5f1M&w=500&h=500&q=animated%20coding%20gif&ved=2ahUKEwjj9bKJv579AhW493MBHQ4dAXcQMygvegUIARCHAw"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh1462&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh1462" /> </p>
 
